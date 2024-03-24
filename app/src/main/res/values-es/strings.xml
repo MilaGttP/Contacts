@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="themes">Temas</string>
+    <string name="light">Ligera</string>
+    <string name="dark">Oscura</string>
+    <string name="locale">Idioma</string>
+    <string name="english">Inglesa</string>
+    <string name="ukrainian">Ucrania</string>
+    <string name="spanish">Española</string>
+    <string name="create_new">Crear nuevo</string>
+    <string name="delete">Borrar</string>
+    <string name="save">Ahorrar</string>
+    <string name="name">Nombre</string>
+    <string name="surname">Apellido</string>
+    <string name="patronymic">Patronímica</string>
+    <string name="phone_number">Número de teléfono</string>
+    <string name="description">Descripción</string>
+</resources>

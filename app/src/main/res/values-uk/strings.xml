@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Контакти</string>
+    <string name="themes">Теми</string>
+    <string name="light">Світла</string>
+    <string name="dark">Темна</string>
+    <string name="locale">Мова</string>
+    <string name="english">Англійська</string>
+    <string name="ukrainian">Українська</string>
+    <string name="spanish">Іспанська</string>
+    <string name="create_new">Створити новий</string>
+    <string name="delete">Видалити</string>
+    <string name="save">Зберегти</string>
+    <string name="name">Ім\'я</string>
+    <string name="surname">Прізвище</string>
+    <string name="patronymic">По батькові</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="description">Примітка</string>
+</resources>

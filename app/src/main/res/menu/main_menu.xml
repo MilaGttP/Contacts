@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/createNewContactMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/create_new" />
+    <item
+        android:id="@+id/themesMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/themes">
+        <menu
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <item
+                android:id="@+id/lightThemeMenu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:title="@string/light" />
+            <item
+                android:id="@+id/darkThemeMenu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:title="@string/dark" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/localeMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/locale" >
+        <menu
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+            <item
+                android:id="@+id/englishLocaleMenu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:title="@string/english" />
+            <item
+                android:id="@+id/ukrainianLocaleMenu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:title="@string/ukrainian" />
+            <item
+                android:id="@+id/spanishLocaleMenu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:title="@string/spanish" />
+        </menu>
+    </item>
+</menu>

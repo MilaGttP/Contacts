@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="themes">Themes</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="locale">Language</string>
+    <string name="english">English</string>
+    <string name="ukrainian">Ukrainian</string>
+    <string name="spanish">Spanish</string>
+    <string name="create_new">Create new</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="patronymic">Patronymic</string>
+    <string name="phone_number">Phone number</string>
+    <string name="description">Description</string>
+</resources>
